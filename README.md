@@ -21,3 +21,6 @@ How to:
 5. Look at the magic!
 
 I automate a process of buying 2 blue backpack on a Demo App, mainly using appium and selenium. I tried to integrate it to Cucumber but the step definition builder seems to be bugged, always undefined from the feature file when ran through testNg, even though I already installed the cucumber eclipse plugin and changing the project to cucumber. So currently I left it halfway on the cucumber part. But the automation part is done :)
+
+Test demo video:
+https://youtu.be/mm5Hb2qAgRg
